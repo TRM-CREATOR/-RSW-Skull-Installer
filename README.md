@@ -5,9 +5,13 @@ I am not responsable of nothing that happen to you if you install it in your own
 ## Demostration
 [Click here](https://youtu.be/wR2WdU8xtRQ)
 
-### About me
+## About me
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TRM-CREATOR&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Other
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=TRM-CREATOR&theme=blue-green)
+
+### Other
+
+[![Github all releases](https://img.shields.io/github/downloads/TRM-CREATOR/StrapDown.js/total.svg)](https://GitHub.com/TRM-CREATOR/StrapDown.js/releases/)
 
