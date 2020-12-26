@@ -1,5 +1,6 @@
-# RSW-Skull-Installer
-DO NOT DOWNLOAD IT ON YOUR OWN PC, I AM NOT RESPONSABLE OF NOTHING THAT HAPPEN TO YOU IF YOU INSTALLA IT IN YOUR OWN PC, I WARNED YOU.
+# ⚠️Warning⚠️
+This is a virus,do not dowload it on your own pc (test it in a virtual machine).
+I am not responsable of nothing that happen to you if you install it in your own pc, I WARNED YOU.
 
 ## Demostration
 [Click here](https://youtu.be/wR2WdU8xtRQ)
