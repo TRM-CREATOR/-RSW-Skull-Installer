@@ -13,5 +13,5 @@ I am not responsable of nothing that happen to you if you install it in your own
 
 ### Other
 
-[![Github all releases](https://img.shields.io/github/downloads/TRM-CREATOR/StrapDown.js/total.svg)](https://GitHub.com/TRM-CREATOR/StrapDown.js/releases/)
+[![GitHub commits](https://img.shields.io/github/commits-since/TRM-CREATOR/StrapDown.js/v1.0.0.svg)](https://GitHub.com/TRM-CREATOR/StrapDown.js/commit/)
 
