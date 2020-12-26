@@ -10,5 +10,9 @@
 ### Other info
 ```markdown
 I am a developer, I know very good C# and VBasic
+
 ```
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TRM-CREATOR&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=TRM-CREATOR&theme=blue-green)
