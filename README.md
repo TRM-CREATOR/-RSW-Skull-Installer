@@ -4,3 +4,10 @@ I am not responsable of nothing that happen to you if you install it in your own
 
 ## Demostration
 [Click here](https://youtu.be/wR2WdU8xtRQ)
+
+### About me
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TRM-CREATOR&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Other
+
