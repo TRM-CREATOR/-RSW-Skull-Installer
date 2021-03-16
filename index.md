@@ -2,17 +2,25 @@
 
 ## Downloads
 
-[SKULL-INSTALLER DOWNLOAD](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/1.2/Skull-Installer.exe).
+[SKULL-INSTALLER DOWNLOAD (OUTDATED)](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/1.2/Skull-Installer.exe).
 
-[Cut ME DOWNLOAD](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/1.0.0/Cut-ME.exe).
+[Cut ME DOWNLOAD (OUTDATED)](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/1.0.0/Cut-ME.exe).
 
-[U THINK IT'S FUNNY DOWNLOAD](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/0/UTHINKIT.SFUNNY.exe).
+[U THINK IT'S FUNNY (OUTDATED)](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/0/UTHINKIT.SFUNNY.exe).
 
 [Red.exe](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/666/Red.exe).
 
-[DCPQKX](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/123/DCPQKX.exe).
+[DCPQKX (OUTDATED)](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/123/DCPQKX.exe).
 
-[JigTYY](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/13/JigTYY.exe).
+[JigTYY (OUTDATED)](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/13/JigTYY.exe).
+
+[Katiuscia.exe](https://COMING-SOON).
+
+[GDI32 Effects (ManualPayloadActivator)](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/1455612/GDI32.Effect.exe).
+
+[Red 2.0.exe (WE ARE WORKING ON THIS)](https://COMING-SOON).
+
+[Poltergeist.exe](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/1455612/Poltergeist.exe).
 
 [COMING SOON](https://COMING-SOON).
 
@@ -20,6 +28,7 @@
 
 [COMING SOON](https://COMING-SOON).
 
+[COMING SOON](https://COMING-SOON).
 
 ### Other info
 ```markdown
