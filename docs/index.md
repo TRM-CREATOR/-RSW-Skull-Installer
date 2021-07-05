@@ -14,7 +14,7 @@
 
 [Katiuscia.exe](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/500/Katiuscia.exe).
 
-# Very Hard
+### Very Hard
 
 [Red.exe](https://github.com/TRM-CREATOR/-RSW-Skull-Installer/releases/download/666/Red.exe).
 
